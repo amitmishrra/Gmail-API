@@ -1,0 +1,54 @@
+# Ignore Visual Studio temporary files, build results, and
+# other files that should not be committed
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vscode/
+
+# Ignore build outputs
+*.exe
+*.dll
+*.log
+*.json
+
+# Ignore token files and credentials
+token.json
+credentials.json
+APITokenCredentials/
+
+# Ignore log files
+*.log
+
+# Ignore test results
+TestResults/
+
+# Ignore local configuration files
+*.config
+*.env
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore package-lock.json & npm debug files
+package-lock.json
+npm-debug.log*
+
+# Ignore other IDE/Tool-specific files
+.vscode/
+.idea/
+*.db
+*.pid
+
+# Ignore JetBrains Rider project files
+.idea/
+*.sln.iml
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini

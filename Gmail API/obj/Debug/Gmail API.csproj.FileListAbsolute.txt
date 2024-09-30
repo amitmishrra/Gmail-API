@@ -1,0 +1,35 @@
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Gmail API.dll.config
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Gmail API.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Gmail API.pdb
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Core.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\System.CodeDom.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.pdb
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Admin.Directory.directory_v1.pdb
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Admin.Directory.directory_v1.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Core.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\bin\Debug\System.CodeDom.xml
+C:\Users\Amit\source\repos\Gmail API\Gmail API\obj\Debug\Gmail API.csproj.AssemblyReference.cache
+C:\Users\Amit\source\repos\Gmail API\Gmail API\obj\Debug\Gmail API.csproj.CoreCompileInputs.cache
+C:\Users\Amit\source\repos\Gmail API\Gmail API\obj\Debug\Gmail API.csproj.Up2Date
+C:\Users\Amit\source\repos\Gmail API\Gmail API\obj\Debug\Gmail API.dll
+C:\Users\Amit\source\repos\Gmail API\Gmail API\obj\Debug\Gmail API.pdb
